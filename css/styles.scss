@@ -1,3 +1,56 @@
-@mixin theme-dark{
 
+$light-blue-color:#00afd0;
+
+
+.card-img-top{
+    height: 200px!important;
 }
+
+.bg-light-blue{
+    background-color:$light-blue-color ;
+}
+
+.card-destiantion{
+
+    .card-title{
+        font-family: 'Montserrat', sans-serif;
+        font-size: 1.1rem!important;
+    }
+
+    p{
+        font-family: 'Montserrat', sans-serif;
+        font-size: .9rem!important;
+    }
+}
+
+
+
+
+.interest-section{
+
+    .img-caption{
+        position: absolute;
+        text-align: center;
+        bottom: 0;
+        width: 100%;
+    
+        h5{
+            background-color:  #343a40;
+            display: inline-block;
+            color: white;
+            opacity: .8;
+            padding: 2px;
+            font-size: .9rem;
+        }
+
+        small{
+            font-size: .6rem;
+        }
+    }
+
+     
+}
+
+
+
+

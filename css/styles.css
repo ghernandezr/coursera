@@ -1,0 +1,28 @@
+.card-img-top {
+  height: 200px !important; }
+
+.bg-light-blue {
+  background-color: #00afd0; }
+
+.card-destiantion .card-title {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.1rem !important; }
+
+.card-destiantion p {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 0.9rem !important; }
+
+.interest-section .img-caption {
+  position: absolute;
+  text-align: center;
+  bottom: 0;
+  width: 100%; }
+  .interest-section .img-caption h5 {
+    background-color: #343a40;
+    display: inline-block;
+    color: white;
+    opacity: .8;
+    padding: 2px;
+    font-size: .9rem; }
+  .interest-section .img-caption small {
+    font-size: .6rem; }
